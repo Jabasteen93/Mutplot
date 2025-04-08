@@ -1,4 +1,4 @@
-# About Mutplot
+# About Mutplot Designer
 ### Mutplot is an easy-to-use online tool for plotting complex mutation data with flexibility.
 
 # Support file format
